@@ -2,7 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08:hooks-tutorial/hooks-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/14:news-viewer/news-viewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hooks-study" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hooks-tutorial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/news-viewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-projects" vcs="Git" />
   </component>
 </project>
