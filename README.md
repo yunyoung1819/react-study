@@ -7,7 +7,7 @@
         <td>김민준 지음</td>
     </tr> 
     <tr>
-        <td>길벗</td>
+        <td> 길벗 </td>
     </tr> 
 </table>
 
