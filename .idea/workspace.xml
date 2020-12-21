@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cc5da-8fdf-401f-b9a9-f538f6bc2906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter08/hooks-tutorial/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/hooks-tutorial/src/AverageTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/hooks-tutorial/src/CounterTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/hooks-tutorial/src/InfoTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/SassComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/SassComponent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/src/styles/utils.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/styling-react/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter08/hooks-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/hooks-tutorial/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608254673327</updated>
       <workItem from="1608254675427" duration="124000" />
-      <workItem from="1608254800956" duration="31092000" />
+      <workItem from="1608254800956" duration="34893000" />
     </task>
     <servers />
   </component>
