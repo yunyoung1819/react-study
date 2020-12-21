@@ -1,12 +1,10 @@
-import React,  { Component } from 'react';
-import IterationSample from './IterationSample';
+import React from 'react';
+import AverageTest from "./AverageTest";
 
-class App extends Component {
-   render () {
-      return (
-          <IterationSample/>
-      );
-   }
-}
+const App = () => {
+    return (
+        <AverageTest />
+    );
+};
 
 export default App;
