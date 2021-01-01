@@ -12,5 +12,5 @@
 </table>
 
 - 해당 Repository는 위 책의 예제 실습을 공부한 연습 코드입니다.
-- https://github.com/gilbutITbook/080203
+- 길벗출판사(https://github.com/gilbutITbook/080203)
  
