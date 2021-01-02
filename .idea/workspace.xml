@@ -2,23 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cc5da-8fdf-401f-b9a9-f538f6bc2906" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/container/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/components/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/components/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/couter.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/yarn.lock" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/chapter03/component-tutorial/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter05/ref-tutorial/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter08/hooks-tutorial/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter09/styling-react/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter13/router-tutorial/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter14/news-viewer/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter15/context-tutorial/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter16/vanilla-redux/node_modules/" />
-    <ignored path="$PROJECT_DIR$/chapter17/react-redux-tutorial/node_modules/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -43,11 +46,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+            <state relative-caret-position="395">
+              <caret line="75" column="14" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/inddex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,8 +108,12 @@
         <option value="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/App.js" />
         <option value="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/couter.js" />
         <option value="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js" />
+        <option value="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/inddex.js" />
       </list>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -168,9 +187,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609078769001" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609253388784" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -184,19 +204,20 @@
       <recent name="$PROJECT_DIR$/chapter06/iteration-tutorial" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -210,18 +231,18 @@
       <workItem from="1608254675427" duration="124000" />
       <workItem from="1608254800956" duration="16706000" />
       <workItem from="1608968312201" duration="1469000" />
-      <workItem from="1609251843331" duration="1011000" />
+      <workItem from="1609251843331" duration="1633000" />
+      <workItem from="1609254341926" duration="5844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11562000" />
+    <option name="totallyTimeSpent" value="12184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="976" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2948718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2948718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -235,7 +256,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33179724" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33179724" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -292,7 +313,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chapter06/hooks-study/src/IterationSample2.js" />
@@ -405,8 +426,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        <state relative-caret-position="395">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/inddex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

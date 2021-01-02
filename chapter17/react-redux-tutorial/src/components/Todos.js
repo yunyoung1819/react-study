@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TodoItem = ({ toddo, onToggle, onRemove }) => {
+const TodoItem = ({ todo, onToggle, onRemove }) => {
     return (
         <div>
             <input type="checkbox" />
