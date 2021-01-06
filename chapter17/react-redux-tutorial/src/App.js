@@ -1,13 +1,13 @@
 import React from 'react';
-import CounterContainer from './container/CounterContainer';
-import TodosContainer from "./container/TodosContainer";
+import CounterContainerHooks from "./container/CounterContainerHooks";
+import TodosContainerHooks from "./container/TodosContainerHooks";
 
 const App = () => {
   return (
       <div>
-        <CounterContainer />
+        <CounterContainerHooks />
         <hr />
-        <TodosContainer />
+        <TodosContainerHooks />
       </div>
   );
 };

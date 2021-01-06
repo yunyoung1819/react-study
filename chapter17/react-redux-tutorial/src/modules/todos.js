@@ -85,7 +85,7 @@ const todos = handleActions(
         }),
         [TOGGLE]: (state, action) => ({
             ...state,
-            toddos: state.todos.map(todo => todo.id === action.payload ? { ...todo, done: !todo.done } : todo,
+            todos: state.todos.map(todo => todo.id === action.payload ? { ...todo, done: !todo.done } : todo,
                 ),
         }),
         [REMOVE]: (state, action) => ({
