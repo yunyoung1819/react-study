@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cc5da-8fdf-401f-b9a9-f538f6bc2906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/container/TodosContainerHooks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/lib/useActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/containers/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/container/CounterContainerHooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/container/CounterContainerHooks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter17/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/chapter17/react-redux-tutorial/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +198,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31034482" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -237,7 +233,7 @@
       <workItem from="1608254800956" duration="16706000" />
       <workItem from="1608968312201" duration="1469000" />
       <workItem from="1609251843331" duration="1633000" />
-      <workItem from="1609254341926" duration="17379000" />
+      <workItem from="1609254341926" duration="19838000" />
     </task>
     <task id="LOCAL-00001" summary="# react-redux hooks useSelector study">
       <created>1609865986307</created>
