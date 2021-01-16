@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cc5da-8fdf-401f-b9a9-f538f6bc2906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/components/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/containers/CounterContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/sample.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +181,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609253388784" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -198,7 +194,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31034482" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -206,13 +202,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -233,7 +231,8 @@
       <workItem from="1608254800956" duration="16706000" />
       <workItem from="1608968312201" duration="1469000" />
       <workItem from="1609251843331" duration="1633000" />
-      <workItem from="1609254341926" duration="19838000" />
+      <workItem from="1609254341926" duration="26736000" />
+      <workItem from="1610276521328" duration="3601000" />
     </task>
     <task id="LOCAL-00001" summary="# react-redux hooks useSelector study">
       <created>1609865986307</created>
