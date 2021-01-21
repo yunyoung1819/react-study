@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cc5da-8fdf-401f-b9a9-f538f6bc2906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/components/Sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/containers/SampleContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/lib/createRequestThunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/loading.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/sample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/learn-redux-middleware/src/modules/loading.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,19 +201,6 @@
       <recent name="$PROJECT_DIR$/chapter06/iteration-tutorial" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -241,7 +218,8 @@
       <workItem from="1609251843331" duration="1633000" />
       <workItem from="1609254341926" duration="26736000" />
       <workItem from="1610276521328" duration="5354000" />
-      <workItem from="1610778276945" duration="9324000" />
+      <workItem from="1610778276945" duration="10782000" />
+      <workItem from="1611249192292" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="# react-redux hooks useSelector study">
       <created>1609865986307</created>
