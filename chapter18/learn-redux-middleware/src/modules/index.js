@@ -1,12 +1,12 @@
 import { combineReducers } from 'redux';
 import { all } from 'redux-saga/effects';
 import counter, { counterSaga } from './counter';
-import sample from './sample';
+import sampleThunk from './sampleThunk';
 import loading from './loading';
 
 const rootReducer = combineReducers({
     counter,
-    sample,
+    sample: sampleThunk,
     loading
 });
 
